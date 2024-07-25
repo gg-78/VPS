@@ -11,7 +11,7 @@ keep_alive()
 bot = telebot.TeleBot('7406893067:AAF6Gf4gpfIwp2SnAqmK-G8oyj_vK13HNmo')
 
 # Join :- @HydraDDos1 # Admin user IDs
-admin_id = ["6141252240","6884214726"]
+admin_id = ["6001689090","6884214726"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
